@@ -1,0 +1,11 @@
+{
+  "name": "threejs-project",
+  "version": "1.0.0",
+  "description": "Trying out some 3d rendering in Javascript!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Romer",
+  "license": "MIT"
+}
